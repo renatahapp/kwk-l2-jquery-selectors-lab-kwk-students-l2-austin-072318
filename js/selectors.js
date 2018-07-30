@@ -2,5 +2,7 @@
 //add your code here
 function h1Selector(h1){ 
 $("p")} 
-function liInOlSelector(){ 
+function liInOlSelector(<li>){ 
+
+  
 } 
